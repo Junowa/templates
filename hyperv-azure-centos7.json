@@ -13,7 +13,7 @@
       "communicator": "ssh",
       "ssh_username": "admloc",
       "ssh_password": "Azerty5*",
-      "ssh_wait_timeout": "1200s",
+      "ssh_timeout": "1200s",
 
       "http_directory": "httpdir",
       "boot_wait": "5s",
